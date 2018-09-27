@@ -1,9 +1,9 @@
 # Rosette-4.0
 A scalable, kinetic, imaging body.
 
-Diplomarbeit
-Masterstudiengang Digitale Medientechnologien
-Fachhochschule St. Pölten
+Diplomarbeit,
+Masterstudiengang Digitale Medientechnologien,
+Fachhochschule St. Pölten,
 Masterklasse Experimentelle Medien
 
 ###############################################
