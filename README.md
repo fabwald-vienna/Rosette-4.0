@@ -11,7 +11,6 @@ Masterklasse Experimentelle Medien
 Video:
 
 
-
 ###############################################
 
 These programs allow to control the content and movements of 16 displays.
